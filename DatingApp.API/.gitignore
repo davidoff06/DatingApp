@@ -4,3 +4,4 @@ obj
 *.db
 .vs
 .vs/DatingApp.API/v16/.suo
+appsettings.json
